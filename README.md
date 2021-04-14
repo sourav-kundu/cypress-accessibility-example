@@ -1,7 +1,5 @@
 # Cypress accessibility example with BrowserStack
 
-[![vercel](https://badgen.net/badge/icon/Vercel?icon=zeit&label&color=black&labelColor=black)](https://cypress-accessibility-example.vercel.app/) [![Twitter Follow](https://img.shields.io/twitter/follow/leozera?label=Follow%20on%20Twitter)](https://twitter.com/leozera/)
-
 Example repository showing how to run Accessibility tests using cypress and cypress-axe on BrowserStack cloud.
 
 Follow the steps below to run basic accessibility tests on a demo web application:
