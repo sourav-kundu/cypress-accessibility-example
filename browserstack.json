@@ -1,0 +1,45 @@
+{
+    "auth": {
+        "username": "YOUR_USERNAME",
+        "access_key": "YOUR_ACCESS_KEY"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "Windows 10",
+            "versions": [
+                "latest-1",
+                "latest-2"
+            ]
+        },
+        {
+            "browser": "firefox",
+            "os": "Windows 10",
+            "versions": [
+                "latest"
+            ]
+        }
+    ],
+    "run_settings": {
+        "cypress_config_file": "./cypress.json",
+        "project_name": "Cypress Accessibility Tests",
+        "build_name": "Accessibility tests using axe-core",
+        "exclude": [],
+        "parallels": "25",
+        "npm_dependencies": {
+            "axe-core": "^4.1.4",
+            "cypress": "^4.12.1",
+            "cypress-axe": "^0.12.2"
+        },
+        "package_config_options": {},
+        "headless": true,
+        "cypress_version": "4"
+    },
+    "connection_settings": {
+        "local": true,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    },
+    "disable_usage_reporting": false
+}

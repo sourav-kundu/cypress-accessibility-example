@@ -17,6 +17,7 @@
     "serve": "^11.3.2"
   },
   "devDependencies": {
+    "axe-core": "^4.1.4",
     "cypress": "^4.12.1",
     "cypress-axe": "^0.8.1"
   }
