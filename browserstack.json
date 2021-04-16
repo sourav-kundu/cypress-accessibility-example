@@ -28,12 +28,12 @@
         "parallels": "25",
         "npm_dependencies": {
             "axe-core": "^4.1.4",
-            "cypress": "^4.12.1",
+            "cypress": "^6.8.0",
             "cypress-axe": "^0.12.2"
         },
         "package_config_options": {},
         "headless": true,
-        "cypress_version": "4"
+        "cypress_version": "6"
     },
     "connection_settings": {
         "local": true,
